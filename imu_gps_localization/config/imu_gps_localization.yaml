@@ -1,0 +1,13 @@
+imu_gps_localization_node:
+  ros__parameters:
+  
+    debug: 1
+    acc_noise: 1e-2
+    gyro_noise: 1e-4
+    acc_bias_noise: 1e-6
+    gyro_bias_noise: 1e-8
+    I_p_Gps_x: 0.0    
+    I_p_Gps_y: 0.0  
+    I_p_Gps_z: 0.0  
+           
+
